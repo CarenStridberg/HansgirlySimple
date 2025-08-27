@@ -4352,7 +4352,6 @@ IGUI_CN = {
 	IGUI_MagazineTitle_ShortsIllustrated = "短裤图解",
 	IGUI_MagazineTitle_SuspectsandWitnesses = "嫌疑人与证人",
 
-    IGUI_MagazineTitle_HunkZ = "杂志: HunkZ",
 
     IGUI_NewspaperTitle_ChristianBulletin = "基督公报",
     IGUI_NewspaperTitle_KnoxKnews = "诺克斯新闻",
