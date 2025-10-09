@@ -1,7 +1,7 @@
-name=[B42]统一中文汉化-简明版
+name=[B42]统一中文汉化 (简明版)
 poster=poster.png
 id=B42Trans_CN_Simple
-description=B42游戏本体汉化-简明版
+description=该版本为游戏汉化 (简明版)，符合玩家习惯，省略了各种书籍具体名称，传单翻译以及其他详细内容 (词条较短)
 author=如一组 (As1)
 icon=CN.png
 incompatible=\B42Trans_CN
